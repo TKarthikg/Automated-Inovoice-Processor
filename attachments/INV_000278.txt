@@ -1,0 +1,31 @@
+Certificate
+Delhi
+India TAX INVOICE
+GSTIN 07AAPPY3427L1ZY
+alokyadav@ybifoundation.org
+# : INV-000278 Place Of Supply : Karnataka (29)
+Invoice Date : 02/05/2025
+Terms : Due on Receipt
+Due Date : 02/05/2025
+Bill To Ship To
+Dayananda Sagar Academy Of Technology And #18, Sri lakshmi srinivas boys pg , balaji layout
+Management Bangalore
+#18, Sri lakshmi srinivas boys pg , balaji layout 560062 Karnataka
+Bangalore India
+560062 Karnataka
+India
+IGST
+# Item & Description Qty Rate % Amt Amount
+1 Live Master Course [SL 5May25] 1 1.00 18% 0.18 1.00
+Live Training + Live Mentor Support + Live Project
+Guidance
+Sub Total 1.00
+Total In Words
+IGST18 (18%) 0.18
+Indian Rupee One and Eighteen Paise Only
+Total Rs.1.18
+Notes Payment Made (-) 1.18
+Balance Due Rs.0.00
+Thanks for your business.
+Authorized Signature
+1

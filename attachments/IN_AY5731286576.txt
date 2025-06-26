@@ -1,0 +1,44 @@
+Tax Invoice (Operator)
+Operator Details: Operator GSTIN:29ADHPN1779M1ZS
+Seabird Tourists State Code:29
+Seabird Tours and Travels Goods and Service Tax Category: Bus Transport services
+of passengers
+Booking ID : AY5731286576
+HSN Code:996422
+Invoice ID : O2526KA000210825 Invoice Date and Time: 2025-05-13 11:51:01
+Place of supply: Sirsi (Karnataka),Karnataka
+State Code:29
+Description Amount (INR)
+800.00
+Total Fare
+20.00
+CGST
+2.5%
+20.00
+SGST
+2.5%
+0.00
+IGST
+5%
+Invoice Total 840.00
+Invoice Total(Amount In Words) : Eight Hundred And Forty Rupees Only
+Whether Tax is payable under Reverse Charge Mechanism:No.
+Terms and conditions :
+-Represents the price actual charged and that there is no additional consideration directly or indirectly
+-Any disputes shall be subjects to the exclusive jurisdiction of courts at Hyderabad(Telangana, India)
+-All taxes charged on actual basis.
+Notes :
+1.This is a computer generated Invoice and does not require Signature/Stamp.
+2.This invoice is issued on behalf of the Transport Service Provider. Le Travenues Technology Limited acts in
+the capacity of Electronic Commerced Operator as per Section 9(5) of the Central Goods & Services Tax Act,
+2017 and corresponding State GST Laws as well as Section 5(5) of the Integrated Goods and Services Tax
+Act, 2017.
+3.We hereby declare that though our aggregate turnover in any preceding financial year from 2017-18
+onwards is more than the aggregate turnover notified under sub-rule (4) of rule 48 , we are not required to
+prepare an invoice in terms of the provisions of the said sub-rule.
+Details of ECO under GST:
+Name: Le Travenues Technology Limited
+Address: No. 17, VV Puram, Bengal Mutt Road, Chamarajpet, Bengaluru, Bengaluru Urban - 560004, Karnataka
+GSTIN: 29AABCL1932G1ZN
+CIN: L63000HR2006PLC071540
+Powered by TCPDF (www.tcpdf.org)
