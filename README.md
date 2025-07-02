@@ -1,5 +1,6 @@
 📥 Automated-Inovoice-Processor
 
+
 A powerful GUI-based Python application that automates the process of extracting invoice data from email attachments. 
 It connects to your Gmail account, searches for emails containing a specific keyword in the subject (e.g., "Invoice"), 
 downloads attached PDF files, extracts structured key-value pairs, displays them in a table, and allows exporting to CSV.
