@@ -41,10 +41,13 @@ downloads attached PDF files, extracts structured key-value pairs, displays them
 1. Clone the repository
    git clone https://github.com/your-username/invoice-pdf-extractor.git
    cd invoice-pdf-extractor
+
 2. Install dependencies
    `pip install -r requirements.txt`
+
 3.Run the app
   python invoice_extractor.py
+
 4.Use the GUI
   Enter your Gmail address
   Enter your App Password (not your Gmail password)
