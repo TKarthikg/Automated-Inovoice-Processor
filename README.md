@@ -38,7 +38,6 @@ downloads attached PDF files, extracts structured key-value pairs, displays them
 
 
 💻 How to Run
-
 1. **Clone the repository**
  ```bash
  git clone https://github.com/your-username/invoice-pdf-extractor.git
@@ -53,14 +52,12 @@ pip install -r requirements.txt
 
 
 4.Use the GUI
-
 Enter your Gmail address
 Enter your App Password (not your Gmail password)
 Click Download PDFs
 Once processed, click Export to CSV
 
 📂 Folder Structure
-
 invoice-pdf-extractor/
 attachments/           # Downloaded PDFs
 extracted_data.csv     # Output file (after export)
@@ -69,7 +66,6 @@ invoice_extractor.py   # Main script
 README.md              # This file
 
 🔐 Security Notes
-
 This application uses Gmail App Passwords to prevent security risks.
 Your credentials are not stored anywhere. It only searches for emails with subject line containing Invoice
 
@@ -80,15 +76,12 @@ Your credentials are not stored anywhere. It only searches for emails with subje
 NOTE: Output is customizable depending on the key-value structure in your PDF invoices.
 
 📝 License
-
 This project is open source under the MIT License.
 
 🙌 Contributing
-
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 📧 Contact
-
 For support or feature requests, 
 reach out at: tailorkarthik15@gmail.com
 
