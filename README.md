@@ -78,7 +78,7 @@ NOTE: Output is customizable depending on the key-value structure in your PDF in
    This project is open source under the `MIT License`.
 
 🙌 Contributing
-   Contributions are welcome! Feel free to fork this repo and submit a pull request.
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 📧 Contact
     For support or feature requests, 
